@@ -12,7 +12,7 @@
 ## About Me
 ------
 
-I am learning JS/Front-end with rsschool and this year I'll be programmer
+I am learning JS/Front-end with rs-school and this year I'll be programmer
 ## Skills
 ----
 
