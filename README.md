@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV](https://Daniyar7639.github.io/rsschool-cv)
